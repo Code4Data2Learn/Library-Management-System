@@ -1,7 +1,7 @@
 {
   "books": [
     {
-      "id": 1,
+      "id": "1",
       "name": "The Hobbit",
       "author": "J.R.R. Tolkien",
       "genre": "Fantasy",
@@ -9,7 +9,7 @@
       "publisher": "Houghton Mifflin"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "The Land Before Time",
       "author": "Alan Moore",
       "genre": "Fantasy",
@@ -17,12 +17,20 @@
       "publisher": "Houghton Mifflin"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Harry Potter and the Sorcerer's Stone",
       "author": "J.K. Rowling",
       "genre": "Fantasy",
       "price": 15.99,
       "publisher": "Bloomsbury"
-    }
+    },
+    {
+      "id": "4",
+      "name": "2 States",
+      "author": "Chetan Bhagat",
+      "genre": "Romance",
+      "price": 20.21,
+      "publisher": "Rupa Publications"
+      }
   ]
 }
