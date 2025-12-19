@@ -48,3 +48,17 @@ npm install nodemon --save-dev
 npm run dev
 
 To restore node_modules and package-lock.json --> npm install
+
+npm install mongoose
+npm install mongodb
+
+mongodb+srv://aldous27dwork_db_user:<db_password>@cluster0.j2yt84t.mongodb.net/?appName=Cluster0
+ImcejPpTLu2QRiPn
+mongodb+srv://aldous27dwork_db_user:ImcejPpTLu2QRiPn@cluster0.j2yt84t.mongodb.net/?appName=Cluster0
+
+npm install dotenv
+
+# MVC Architechture
+    >> M: Model (Structure of our MongoDB)
+    >> V: View (Frontend)
+    >> C: Controllers (Brain/Logic of a router)
